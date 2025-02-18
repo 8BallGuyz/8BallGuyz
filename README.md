@@ -58,10 +58,4 @@
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)  
 
 ---
-
-## 🏆 GitHub Stats  
-
-![Leon Carter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=8BallGuyz&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8BallGuyz&layout=compact&theme=radical)  
-
 </div>
