@@ -3,9 +3,9 @@
 <br><br>
 *-> I'm passionate about creating 2D games through game development and pixel art. Currently, I'm leveling up my skills in Unity C#, as well as frontend & backend web development.*
 <br><br>__🔥 Projects I'm working on:__
-<br>/<br>**🏰 Meta Dungeons –** My big project, a unique anime inspired dungeon runner in the making.
+<br>**🏰 Meta Dungeons –** My big project, a unique anime inspired dungeon runner in the making.
 <br>**🏃‍♂️ Stickman Platformer –** A fun side project focused on smooth gameplay and discovering mechanics.
-<br>/<br><br>🚀 Always learning and always building so send me a message if you're interrested on working together !<br>
+<br><br>🚀 Always learning and always building so send me a message if you're interrested on working together !<br>
 
 
 ## 🌐 Socials:
