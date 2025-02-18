@@ -7,6 +7,7 @@
 <br>**🏃‍♂️ Stickman Platformer –** A fun side project focused on smooth gameplay and discovering mechanics.
 <br><br>🚀 Always learning and always building so send me a message if you're interrested on working together !<br>
 
+<hr>
 # ⚠️ ALL OF MY UNITY PROJECTS ARE PRIVATE AT THE MOMENT
 <br>
 
